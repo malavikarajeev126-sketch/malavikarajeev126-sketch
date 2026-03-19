@@ -1,16 +1,15 @@
-## Hi there 👋
+Hi, I'm Malavika Rajeevan👋
 
-<!--
-**malavikarajeev126-sketch/malavikarajeev126-sketch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BTech un IT (CUSAT)+ BS in Data Science (IIT Madras)
+💡 Building real-world AI solutions
+🚀 Passionate about Data Science & AI, exploring machine learning, intelligent systems, and real-world problem solving
+🔭 I’m currently working on machine learning projects and real-world applications
+👯 I’m looking to collaborate on AI/ML projects and tech innovations
+💬 Ask me about AI/ML, problem-solving, and building real-world projects
+📫 How to reach me: malavikarajeev126@gmail.com  
+                    🔗 LinkedIn: https://www.linkedin.com/in/malavika-rajeevan-114ba8386/
+                    📸 Instagram: https://www.instagram.com/___.malavika.___126/
+😄 Pronouns: She/Her
+⚡ Fun fact: I believe good data > complex models
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Turning data into decisions and ideas into impact
