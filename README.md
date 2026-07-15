@@ -8,8 +8,6 @@ Hi, I'm Malavika Rajeevan👋
 
 🔭 I’m currently working on machine learning projects and real-world applications
 
-👯 I’m looking to collaborate on AI/ML projects and tech innovations
-
 💬 Ask me about AI/ML, problem-solving, and building real-world projects
 
 📫 How to reach me: malavikarajeev126@gmail.com  
